@@ -35,7 +35,7 @@ function App() {
             }}
             className="text-lg outline-none px-4 py-1 rounded-full shadow-lg bg-rose-600 min-w-40"
           >
-            GRIFFINDOR
+            GRYFFINDOR
           </button>
           <button
             onClick={() => {
